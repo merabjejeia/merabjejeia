@@ -14,8 +14,6 @@ methodology and tooling.
 **Tools I build and use**
 Python, SQL, data viz, internal antifraud tooling
 
-📫 LinkedIn · Telegram
-
 ## How to contact me
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&?style=for-the-badge&logo=telegram&color=blue)](https://t.me/merabjejeia)⠀
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&?style=for-the-badge&logo=instagram&color=blue)](https://instagram.com/merab.jejeia?igshid=ZDdkNTZiNTM=)⠀
