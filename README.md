@@ -1,7 +1,20 @@
-## About me
-My name is Merab Jejeia, since August 2022 I have been studying data analytics.
+## Merab Jejeia
+Deputy Head, Fraud & Risk Analytics | iGaming
 
-To deepen my knowledge in analysis, I have completed several online courses, through which I have learned Python, SQL, mathematical statistics, probability theory, product metrics, and frameworks for product development. Through academic projects, I have gained practical experience in conducting statistical tests, using GIT and AIRFLOW, and creating dashboards in Tableau.
+I lead fraud analytics across sports betting, payments and chargebacks.
+Built a sports fraud department from scratch, own the analytics
+methodology and tooling.
+
+**Focus areas**
+- Fraud group detection and account clustering
+- Sports betting abuse patterns
+- Chargeback and payment risk
+- Blockchain forensics (wallet clustering, tx chain analysis)
+
+**Tools I build and use**
+Python, SQL, data viz, internal antifraud tooling
+
+📫 LinkedIn · Telegram
 
 ## How to contact me
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&?style=for-the-badge&logo=telegram&color=blue)](https://t.me/merabjejeia)⠀
